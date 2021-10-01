@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Toppings</string>
+    <string name="Thank_you">\nThank You!</string>
+    <string name="total">\nTotal: $</string>
+    <string name="quantity">\"\nQuantity: \"</string>
+    <string name="add_chocolate">\"\nAdd Chocolate ? \"</string>
+    <string name="add_whipped_cream">\"\nAdd whipped cream ? \"</string>
+    <string name="name">\"Name: \"</string>
+    <string name="toast_less_than_one">You cannot have less than one coffee :\")</string>
+    <string name="toast_greater_than_100">You cannot have greater than one hundred coffee :\")</string><string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="name_res">Name</string>
+    <string name="whipped_cream_res">Whipped cream</string>
+    <string name="chocolate_res">Chocolate</string>
+    <string name="quantity_res">QUANTITY</string>
+    <string name="one">1</string>
+    <string name="order">Order</string>
+</resources>
